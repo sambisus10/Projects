@@ -1,0 +1,1 @@
+To play minesweeper execute 'play' file with option '--generate'
