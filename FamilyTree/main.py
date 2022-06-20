@@ -1,8 +1,3 @@
-"""
-Program drawing and implementing various operations on family trees.
-"""
-
-
 from typing import Dict, List, Optional, Set
 
 L_LIKE = "└"

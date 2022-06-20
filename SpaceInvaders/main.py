@@ -1,10 +1,3 @@
-"""
-Use arrows for moving and space for shooting.
-
-Has little bit of bugs, but it is quite playable.
-"""
-
-
 import pygame
 from typing import List
 from random import randint
